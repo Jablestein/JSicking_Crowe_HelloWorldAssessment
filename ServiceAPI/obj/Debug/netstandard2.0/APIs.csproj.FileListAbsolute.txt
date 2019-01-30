@@ -12,3 +12,17 @@ C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_C
 C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.csproj.CopyComplete
 C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.dll
 C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.pdb
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\APIs.deps.json
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\APIs.dll
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\APIs.pdb
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\ServiceLibrary.dll
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\ServiceWriterFactory.dll
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\ServiceWriterFactory.pdb
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\bin\Debug\netstandard2.0\ServiceLibrary.pdb
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.csprojAssemblyReference.cache
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.csproj.CoreCompileInputs.cache
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.AssemblyInfoInputs.cache
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.AssemblyInfo.cs
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.csproj.CopyComplete
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.dll
+D:\GitHub\JSicking_Crowe_HelloWorldAssessment\ServiceAPI\obj\Debug\netstandard2.0\APIs.pdb

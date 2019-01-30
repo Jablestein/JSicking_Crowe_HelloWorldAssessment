@@ -836,11 +836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceWriterFactory\\ServiceWriterFactory.csproj",
+      "projectUniqueName": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceWriterFactory\\ServiceWriterFactory.csproj",
       "projectName": "ServiceWriterFactory",
-      "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceWriterFactory\\ServiceWriterFactory.csproj",
+      "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceWriterFactory\\ServiceWriterFactory.csproj",
       "packagesPath": "C:\\Users\\JSicking\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceWriterFactory\\obj\\",
+      "outputPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceWriterFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -859,8 +859,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceWriter\\ServiceLibrary.csproj": {
-              "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceWriter\\ServiceLibrary.csproj"
+            "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceWriter\\ServiceLibrary.csproj": {
+              "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceWriter\\ServiceLibrary.csproj"
             }
           }
         }

@@ -1296,11 +1296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment.csproj",
+      "projectUniqueName": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment.csproj",
       "projectName": "JSicking_Crowe_HelloWorldAssessment",
-      "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment.csproj",
+      "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment.csproj",
       "packagesPath": "C:\\Users\\JSicking\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\JSicking_Crowe_HelloWorldAssessment\\obj\\",
+      "outputPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\JSicking_Crowe_HelloWorldAssessment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1319,8 +1319,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceAPI\\APIs.csproj": {
-              "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceAPI\\APIs.csproj"
+            "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceAPI\\APIs.csproj": {
+              "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceAPI\\APIs.csproj"
             }
           }
         }

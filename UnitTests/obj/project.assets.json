@@ -6105,11 +6105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\JSicking\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\UnitTests\\obj\\",
+      "outputPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6128,8 +6128,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceAPI\\APIs.csproj": {
-              "projectPath": "C:\\Users\\JSicking\\Documents\\JSicking_Crowe_HelloWorldAssessment-master\\ServiceAPI\\APIs.csproj"
+            "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceAPI\\APIs.csproj": {
+              "projectPath": "D:\\GitHub\\JSicking_Crowe_HelloWorldAssessment\\ServiceAPI\\APIs.csproj"
             }
           }
         }
