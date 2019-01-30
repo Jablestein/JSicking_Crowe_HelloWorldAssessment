@@ -1,0 +1,9 @@
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\bin\Debug\netstandard2.0\ServiceWriter.deps.json
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\bin\Debug\netstandard2.0\ServiceWriter.dll
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\bin\Debug\netstandard2.0\ServiceWriter.pdb
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.csprojAssemblyReference.cache
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.csproj.CoreCompileInputs.cache
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.AssemblyInfoInputs.cache
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.AssemblyInfo.cs
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.dll
+C:\Users\JSicking\source\repos\JSicking_Crowe_HelloWorldAssessment\ServiceWriter\obj\Debug\netstandard2.0\ServiceWriter.pdb

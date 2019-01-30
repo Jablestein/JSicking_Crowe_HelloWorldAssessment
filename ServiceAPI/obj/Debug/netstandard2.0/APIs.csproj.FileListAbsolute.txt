@@ -1,0 +1,14 @@
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\APIs.deps.json
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\APIs.dll
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\APIs.pdb
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\ServiceLibrary.dll
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\ServiceWriterFactory.dll
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\ServiceWriterFactory.pdb
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\bin\Debug\netstandard2.0\ServiceLibrary.pdb
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.csprojAssemblyReference.cache
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.csproj.CoreCompileInputs.cache
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.AssemblyInfoInputs.cache
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.AssemblyInfo.cs
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.csproj.CopyComplete
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.dll
+C:\Users\A219145\Downloads\JSicking_Crowe_HelloWorldAssessment-master\JSicking_Crowe_HelloWorldAssessment-master\ServiceAPI\obj\Debug\netstandard2.0\APIs.pdb
